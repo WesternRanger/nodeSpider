@@ -1,0 +1,27 @@
+{
+  "name": "western-ranger",
+  "version": "1.0.0",
+  "description": "node pachong",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/WesternRanger/nodeSpider.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "western-ranger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WesternRanger/nodeSpider/issues"
+  },
+  "homepage": "https://github.com/WesternRanger/nodeSpider#readme",
+  "dependencies": {
+    "async": "^2.1.2",
+    "cheerio": "^0.22.0",
+    "superagent": "^3.0.0"
+  }
+}
